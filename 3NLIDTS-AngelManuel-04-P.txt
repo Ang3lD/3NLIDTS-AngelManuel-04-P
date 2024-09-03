@@ -1,0 +1,8 @@
+Nombres:Angel Daniel
+Apellidos: Manuel Torres
+Edad:18años
+Estatura:181
+Telefono:9613309389
+Genero:Hombre
+
+
